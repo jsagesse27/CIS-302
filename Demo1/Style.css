@@ -1,0 +1,20 @@
+* {
+    background-color: navy;
+    color: gold;
+    font-family: sans-serif;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+    display: flex;
+    justify-content: right;
+    border: 5px solid gold;
+    scale: 67%;
+}
+
+p {
+    text-align: justify;
+}
